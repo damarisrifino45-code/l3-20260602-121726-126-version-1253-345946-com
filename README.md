@@ -1,16 +1,11 @@
-﻿# website-upload-20260602-121726-126
+# 高清剧集大全
 
-Batch 126 of 38. Contains extracted static website versions. The original zip files are not committed.
+已生成完整纯静态电影网站。
 
-| Directory | Source zip |
-| --- | --- |
-| version-1251 | project-bolt-sb1-emhlk8sj-chatgpt (1).zip |
-| version-1252 | project-bolt-sb1-emmk5me8-chatgpt (1) (moved 1).zip |
-| version-1253 | project-bolt-sb1-emmk5me8-chatgpt (1).zip |
-| version-1254 | project-bolt-sb1-eoc95tbv - 副本-chatgpt (1) (moved 1).zip |
-| version-1255 | project-bolt-sb1-eoc95tbv - 副本-chatgpt (1) (moved 2).zip |
-| version-1256 | project-bolt-sb1-eoc95tbv - 副本-chatgpt (1).zip |
-| version-1257 | project-bolt-sb1-eoc95tbv-chatgpt (1) (moved 1).zip |
-| version-1258 | project-bolt-sb1-eoc95tbv-chatgpt (1) (moved 2).zip |
-| version-1259 | project-bolt-sb1-eoc95tbv-chatgpt (1).zip |
-| version-1260 | project-bolt-sb1-eovn8erj - 副本-chatgpt (1).zip |
+- 影片详情页数量：2000
+- 分类页数量：10
+- 首页、分类总览、热播榜、搜索页、站内地图均已生成
+- 所有 HTML 页面均已插入指定统计脚本
+- 封面图路径使用网站顶级目录下的 `1.jpg` 到 `150.jpg`，可在上线前把对应图片放到站点根目录
+
+打开方式：解压后直接打开 `index.html`，或上传整个目录到静态网站空间。
